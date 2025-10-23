@@ -1,0 +1,9 @@
+
+! https://news.ycombinator.com/item?id=28698979
+youtube.com##.ytp-suggestions
+youtube.com##.ytp-pause-overlay
+youtube.com##.videowall-endscreen
+youtube.com###related
+youtube.com##ytd-comments
+
+youtube.com##:root:not(:fullscreen) video:matches-css(left: 0px):style(object-fit: fill!important; width: 100%!important; height: auto!important;)

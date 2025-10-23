@@ -8,3 +8,5 @@
 !#include twitter.txt
 !#include stackoverflow-co.txt
 !#include reddit.txt
+!#include youtube.txt
+!#include youtube_shorts.txt
