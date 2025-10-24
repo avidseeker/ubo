@@ -1,6 +1,6 @@
-! Title: mig4ng's uBlock filters
+! Title: AvidSeeker's Blocklist
 ! Description: Filters for uBlock, to remove distractions in multiple websites.
-! Homepage: https://github.com/mig4ng/ublock-origin-filters
+! Homepage: https://github.com/avidseeker/ubo
 ! License: https://github.com/mig4ng/ublock-origin-filters/blob/main/COPYING
 
 !#include google-account-popup.txt
